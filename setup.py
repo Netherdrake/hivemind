@@ -28,6 +28,7 @@ setup(
         'steem',
         'bottle',
         'bottle_errorsrest',
+        'bottle_sqlalchemy',
         'sqlalchemy',
         'mysqlclient',
         'click',
